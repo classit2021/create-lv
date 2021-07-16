@@ -1,6 +1,6 @@
-#!/bin/bash
+#! /bin/bash
 
-#Creare Script Automatizare LVm
+#Creare Script Automatizare LV
 
  # , Afisiare mesaj, creating a disk to convert to a logical volume will delete the data
 clear
